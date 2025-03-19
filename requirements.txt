@@ -99,3 +99,4 @@ matplotlib~=3.10.1
 pillow~=11.1.0
 pandas~=2.2.3
 gradio~=5.22.0
+statsmodels~=0.14.4
