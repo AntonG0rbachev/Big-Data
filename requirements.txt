@@ -97,3 +97,5 @@ dask~=2025.2.0
 bcolz-zipline~=1.2.11
 matplotlib~=3.10.1
 pillow~=11.1.0
+pandas~=2.2.3
+gradio~=5.22.0
