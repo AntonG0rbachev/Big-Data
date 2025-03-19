@@ -14,5 +14,8 @@ build/
 **/dist/
 dist/
 
+**/.gradio
+**/.gradio/*
+
 **/3_**
 **/4_**
